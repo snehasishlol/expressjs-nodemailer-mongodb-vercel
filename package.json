@@ -1,5 +1,5 @@
 {
-  "name": "expressjs-with-vercel",
+  "name": "expressjs-resend-mongodb-vercel",
   "version": "0.0.1",
   "description": "ExpressJS with Vercel and MongoDB",
   "main": "index.js",
@@ -17,6 +17,8 @@
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "mongoose": "^7.4.4",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "resend": "^1.0.0"
+  },
+  "devDependencies": {}
 }
