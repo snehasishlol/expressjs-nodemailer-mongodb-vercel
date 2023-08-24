@@ -1,0 +1,6 @@
+{
+    "HOST": "<--- SMTP Host here --->",
+    "PORT": "<--- SMTP Port here --->",
+    "USER": "<--- User mail here --->",
+    "PASS": "<--- User pass here --->"
+}
